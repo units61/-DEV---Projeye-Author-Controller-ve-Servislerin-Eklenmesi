@@ -21,10 +21,10 @@ namespace WebApi.BookOperations.CreateBook
             var book = _dbcontext.Books.SingleOrDefault(x=> x.Title == Model.Title);
             if(book is not null)
                 throw new InvalidOperationException("Kitap zaten mevcut");
-            if(_dbcontext.Authors.Any(x=> x.Id == Model.AuthorId))
-                throw new InvalidOperationException("Bİr kitabın yalnızca bir yazarı olabilir...");
+            if(_dbcontext.Books.Any(x=> x.Id == Model.AuthorId))
+                throw new InvalidOperationException("Bir kitabın yalnızca bir yazarı olabilir...");
             if(_dbcontext.Authors.Any(x=> x.Id != Model.AuthorId))
-                throw new InvalidOperationException("Böyle bir yazar bulunamadı ...");
+                throw new InvalidOperationException("Böyle bir yazar bulunamadı...");
             
            
             book = _mapper.Map<Book>(Model);
