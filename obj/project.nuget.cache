@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "rSjlyvfRTNgVtKo4NrUjQUfgG9fUtnQ2cwgELSR1odmaEOBrcKNrMh1KoLzazMht3NjBj/D/5kZWCM/pt9vovA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gokha\\Desktop\\Pratikler2\\BookStore\\WebApi\\WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gokha\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0-rc.2.22472.11\\microsoft.entityframeworkcore.7.0.0-rc.2.22472.11.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.0-rc.2.22472.11\\microsoft.entityframeworkcore.abstractions.7.0.0-rc.2.22472.11.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.0-rc.2.22472.11\\microsoft.entityframeworkcore.analyzers.7.0.0-rc.2.22472.11.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.0-rc.2.22472.11\\microsoft.entityframeworkcore.inmemory.7.0.0-rc.2.22472.11.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.caching.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0-rc.2.22472.3\\microsoft.extensions.caching.memory.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0-rc.2.22472.3\\microsoft.extensions.dependencyinjection.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.dependencyinjection.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0-rc.2.22472.3\\microsoft.extensions.logging.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0-rc.2.22472.3\\microsoft.extensions.logging.abstractions.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.options\\7.0.0-rc.2.22472.3\\microsoft.extensions.options.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0-rc.2.22472.3\\microsoft.extensions.primitives.7.0.0-rc.2.22472.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\gokha\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
